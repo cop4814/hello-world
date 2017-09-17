@@ -1,5 +1,7 @@
 ﻿using System;
 
+// This line added in Step 7.
+
 namespace Lab_Solution
 {
     public class Game
